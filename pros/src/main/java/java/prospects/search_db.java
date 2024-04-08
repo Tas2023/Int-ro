@@ -6,7 +6,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-public class search {
+public class search_db {
 
     public static void main(String[] args) {
         String dbUrl = "jdbc:mysql://localhost:3307/prospects_db";
